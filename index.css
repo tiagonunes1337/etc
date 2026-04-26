@@ -1,0 +1,69 @@
+body {
+    background-color: rgb(65, 93, 143);
+}
+.texth2 {  
+    font-weight: 400;
+    margin: auto;
+    margin-left: 120px;
+    left: 90px;
+    line-height: 1;
+    letter-spacing: -.03rem;
+    color: white;
+}
+.textp {
+    font-weight: 400;
+    margin: 30pt;
+    line-height: 1;
+    letter-spacing: -.03rem;
+    font-size: x-large;
+    color: rgb(0, 0, 0);
+}
+.texth4 {
+    font-weight: 400;
+    line-height: 1;
+    color: white;
+}
+.etcimg {
+    display: flex;
+    justify-content: center;
+}
+
+.biblioteca {
+    margin: auto;
+    position: absolute;
+    left: 90pt;
+    right: 20pt;
+}
+
+.patio {
+    font-weight: 400;
+    margin: auto;
+    margin-left: 120px;
+    left: 90px;
+    line-height: 1;
+    letter-spacing: -.03rem;
+    font-size: x-large;
+    color: white;
+}
+
+.bbc {
+    font-weight: 400;
+    margin: auto;
+    margin-left: 120px;
+    left: 90px;
+    line-height: 1;
+    letter-spacing: -.03rem;
+    font-size: x-large;
+    color: white;
+}
+
+img {
+    width: 600px;
+    box-shadow: black 3px 3px 3px 3px;
+}   
+.navsp {
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    
+}
